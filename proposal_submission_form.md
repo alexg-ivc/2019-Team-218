@@ -1,44 +1,42 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `218`
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `RE/usrs`
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
-  
-#### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+##### `Donate Where? An easy to use search tool to empowers the public to find places to donate and recycle their unused or unneeded household items.`
+##### `Webapp with an easy-to-use google-like user interface where people can enter search queries to find local organizations that will accept donations for the queried items.`
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+![Donate Where? Screenshot](donate-where-screenshot.png)
+
+#### Dataset(s) your team might use for the project (Provide name and URL):
+- ##### [SD Data Library - Business Sites Dataset](https://data.sandiegodata.org/dataset/sangis-org-business_sites) (List of non-profit businesses)
+- ##### [CA Finance Tax Board](https://www.ftb.ca.gov/businesses/Exempt-organizations/Entity-List.shtml) (List of non-profit businesses)
+- ##### [Propublica List of Non-Profits](https://projects.propublica.org/nonprofits/search?utf8=%E2%9C%93&q=&state%5Bid%5D=CA&ntee%5Bid%5D=&c_code%5Bid%5D=)  (List of non-profit businesses and categories of non-profits)
+- ##### [CalRecycle](https://www.calrecycle.ca.gov/DataCentral/) (List of recycling centers)
+- ##### [Charity Navigator](https://www.charitynavigator.org/index.cfm?keyword_list=&bay=search.results&EIN=&cgid=&cuid=&location=2&state=CA&city=San+Diego&overallrtg=&size=&scopeid=)
+
+#### Team Coordinator GitHub Username: `mgeorgehansen`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-  
+| 01 | Alex Gauthier       |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | M. George Hansen    |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 03 | Camile Yoder        |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
 - [ ] How can San Diegans have access to better air quality indoors and outdoors?
 - [ ] How can we clean San Diego beaches effectively?
-- [ ] Your question:
+- [X] How can San Diegans more easily find places where they can donate items instead of throwing them away?
 
 **Smart Education**
 - [ ] How can schools better utilize their physical resources?
