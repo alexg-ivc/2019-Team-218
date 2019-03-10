@@ -5,7 +5,7 @@
 #### Team Name: `RE/usrs`
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `Donate Where? An easy to use search tool to empowers the public to find places to donate and recycle their unused or unneeded household items.`
+##### `Donate Where? An easy to use search tool to empower the public to find places to donate and recycle their unused or unneeded household items.`
 ##### `Webapp with an easy-to-use google-like user interface where people can enter search queries to find local organizations that will accept donations for the queried items.`
 
 ![Donate Where? Screenshot](donate-where-screenshot.png)
